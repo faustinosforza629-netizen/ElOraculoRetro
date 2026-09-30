@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>El Oráculo Vintage</title>
+    <title>El Oráculo Retro</title>
     <!-- Favicon SVG con los tres corazones -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 140 40%22><text x=%220%22 y=%2232%22 font-size=%2235%22>💙💛💙</text></svg>">
     <!-- Tipografías Vintage: Playfair (Títulos antiguos) y Courier Prime (Máquina de escribir/Archivo 90s) -->
@@ -435,7 +435,7 @@
 </head>
 <body>
 
-    <h1>El Oráculo Vintage</h1>
+    <h1>El Oráculo Retro</h1>
     <div class="subtitle">La Época Dorada (1995 - 2009)</div>
 
     <!-- PANTALLA DE CONFIGURACIÓN Y FILTROS AVANZADOS -->
@@ -913,7 +913,7 @@
                 score += pointsToAdd;
                 if (score > maxScore) {
                     maxScore = score;
-                    localStorage.setItem('oraculo_vintage_max_score', maxScore);
+                    localStorage.setItem('oraculo_retro_max_score', maxScore);
                 }
 
                 if (pointsToAdd === 4 || pointsToAdd === 3) {
@@ -921,7 +921,7 @@
                     if (streak > sessionMaxStreak) sessionMaxStreak = streak;
                     if (streak > maxStreak) {
                         maxStreak = streak;
-                        localStorage.setItem('oraculo_vintage_max_streak', maxStreak);
+                        localStorage.setItem('oraculo_retro_max_streak', maxStreak);
                     }
                     playSound('exact');
                 } else {
