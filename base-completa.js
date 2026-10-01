@@ -917,7 +917,7 @@ const matches = [
         "stadium": "Estadio Monumental",
         "bocaScore": 3,
         "rivalScore": 3,
-        "scorer": "Empate en el Superclásico con doblete del "Manteca" Martínez""
+        "scorer": "Empate en el Superclásico con doblete del Manteca Martínez"
     },
     {
         "year": 1997,
