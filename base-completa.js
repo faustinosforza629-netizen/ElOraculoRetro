@@ -5907,7 +5907,7 @@ const matches = [
         "stadium": "Estadio Pedro Bidegain",
         "bocaScore": 7,
         "rivalScore": 1,
-        "scorer": "Con un hat-trick del Titán y Ruggeri Dt Rival, la Tapa de Olé fue "Cuervitos en Fuga" "
+        "scorer": "Con un hat-trick del Titán y Ruggeri Dt Rival, la Tapa de Olé fue Cuervitos en Fuga "
     },
     {
         "year": 2006,
