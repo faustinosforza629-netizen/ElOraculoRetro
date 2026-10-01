@@ -1241,7 +1241,7 @@ const matches = [
     },
     {
         "year": 1997,
-        "month": "November",
+        "month": "Noviembre",
         "tournament": "Torneo Apertura (Fecha 14)",
         "rival": "Deportivo Español",
         "stadium": "Estadio Nueva España",
@@ -3367,7 +3367,7 @@ const matches = [
         "stadium": "Estadio Nacional de Tokio",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Caída con polémica en el tiempo suplementarioc con gol de Kuffour en Japón"
+        "scorer": "Caída con polémica en el tiempo suplementario con gol de Kuffour en Japón"
     },
     {
         "year": 2001,
@@ -3491,7 +3491,7 @@ const matches = [
     },
     {
         "year": 2002,
-        "month": "Abil",
+        "month": "Abril",
         "tournament": "Torneo Clausura (Fecha 11)",
         "rival": "Huracán",
         "stadium": "Estadio Tomás Adolfo Ducó",
@@ -3547,7 +3547,7 @@ const matches = [
         "stadium": "Estadio Florencio Sola",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Caída en el Sur[cite: 30]"
+        "scorer": "Caída en el Sur"
     },
     {
         "year": 2002,
