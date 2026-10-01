@@ -2997,7 +2997,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo clásico en casa[cite: 25]"
+        "scorer": "Triunfo en casa"
     },
     {
         "year": 2001,
@@ -3007,7 +3007,7 @@ const matches = [
         "stadium": "Estadio Mario Alberto Kempes",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin goles en Córdoba[cite: 25]"
+        "scorer": "Empate en Córdoba"
     },
     {
         "year": 2001,
@@ -3017,7 +3017,7 @@ const matches = [
         "stadium": "Estadio Metropolitano (Barranquilla)",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Gran triunfo de visitante en Colombia[cite: 26]"
+        "scorer": "Gran triunfo de visitante en Colombia"
     },
     {
         "year": 2001,
@@ -3027,7 +3027,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Victoria por la mínima en La Boca[cite: 25]"
+        "scorer": "Victoria en La Boca"
     },
     {
         "year": 2001,
@@ -3037,7 +3037,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate para abrochar la clasificación a cuartos[cite: 26]"
+        "scorer": "Empate para abrochar la clasificación a cuartos"
     },
     {
         "year": 2001,
@@ -3047,7 +3047,7 @@ const matches = [
         "stadium": "Estadio Pedro Bidegain",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Caída en el Nuevo Gasómetro[cite: 25]"
+        "scorer": "Caída en el Nuevo Gasómetro"
     },
     {
         "year": 2001,
@@ -3057,7 +3057,7 @@ const matches = [
         "stadium": "Estadio São Januário",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Triunfo clave en Río de Janeiro[cite: 26]"
+        "scorer": "Triunfo clave en Río de Janeiro"
     },
     {
         "year": 2001,
@@ -3067,7 +3067,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 4,
         "rivalScore": 4,
-        "scorer": "Empate con lluvia de goles en La Boca[cite: 25]"
+        "scorer": "Empate con lluvia de goles en La Boca"
     },
     {
         "year": 2001,
@@ -3077,7 +3077,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Goleada categórica para meterse en semis[cite: 26]"
+        "scorer": "Goleada categórica para meterse en semis"
     },
     {
         "year": 2001,
@@ -3087,7 +3087,7 @@ const matches = [
         "stadium": "Estadio Jorge Luis Hirschi",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate en La Plata para cerrar el torneo[cite: 25]"
+        "scorer": "Empate en La Plata para cerrar el torneo"
     },
     {
         "year": 2001,
@@ -3097,7 +3097,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate en la ida de semis[cite: 26]"
+        "scorer": "Empate en la ida de semis"
     },
     {
         "year": 2001,
@@ -3107,7 +3107,7 @@ const matches = [
         "stadium": "Estadio Palestra Itália",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate y triunfo por penales épico en Brasil[cite: 26]"
+        "scorer": "Empate y triunfo por penales épico en Brasil"
     },
     {
         "year": 2001,
@@ -3117,7 +3117,7 @@ const matches = [
         "stadium": "Estadio Azteca",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Triunfo histórico en México en la primera final[cite: 26]"
+        "scorer": "Triunfo en México en la primera final"
     },
     {
         "year": 2001,
@@ -3127,7 +3127,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Derrota por la mínima pero ¡Boca Bicampeón de América por penales![cite: 26]"
+        "scorer": "¡Boca Bicampeón de América por penales!"
     },
     {
         "year": 2001,
@@ -3137,7 +3137,7 @@ const matches = [
         "stadium": "Estádio Mané Garrincha",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate en Brasil por la Mercosur[cite: 28]"
+        "scorer": "Empate en Brasil por la Mercosur"
     },
     {
         "year": 2001,
@@ -3147,7 +3147,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin goles en casa[cite: 28]"
+        "scorer": "Empate en casa"
     },
     {
         "year": 2001,
@@ -3157,7 +3157,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 3,
-        "scorer": "Tropiezo en el debut del Apertura[cite: 27]"
+        "scorer": "Tropiezo en el debut del Apertura"
     },
     {
         "year": 2001,
@@ -3167,7 +3167,7 @@ const matches = [
         "stadium": "Estadio Pedro Bidegain",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Caída en el Bajo Flores[cite: 27]"
+        "scorer": "Caída en el Bajo Flores"
     },
     {
         "year": 2001,
@@ -3177,7 +3177,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin tantos frente al Sabalero[cite: 27]"
+        "scorer": "Empate sin tantos frente al Sabalero"
     },
     {
         "year": 2001,
@@ -3187,7 +3187,7 @@ const matches = [
         "stadium": "Estadio Juan Carmelo Zerillo",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate con goles en el Bosque[cite: 27]"
+        "scorer": "Empate con goles en el Bosque"
     },
     {
         "year": 2001,
@@ -3197,7 +3197,7 @@ const matches = [
         "stadium": "Estadio Defensores del Chaco",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Derrota en Paraguay[cite: 28]"
+        "scorer": "Derrota en Paraguay"
     },
     {
         "year": 2001,
@@ -3207,7 +3207,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Victoria frente al Funebrero[cite: 27]"
+        "scorer": "Victoria frente al Funebrero"
     },
     {
         "year": 2001,
@@ -3217,7 +3217,7 @@ const matches = [
         "stadium": "Estadio San Carlos de Apoquindo",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Caída en Chile[cite: 28]"
+        "scorer": "Caída en Chile"
     },
     {
         "year": 2001,
@@ -3227,7 +3227,7 @@ const matches = [
         "stadium": "Estadio Monumental",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Superclásico empatado en Núñez[cite: 27]"
+        "scorer": "Superclásico empatado en Núñez"
     },
     {
         "year": 2001,
@@ -3237,7 +3237,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 6,
         "rivalScore": 1,
-        "scorer": "Goleada imponente ante el Granate[cite: 27]"
+        "scorer": "Goleada imponente ante el Granate"
     },
     {
         "year": 2001,
@@ -3247,7 +3247,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate en casa por la copa[cite: 28]"
+        "scorer": "Empate en casa por la copa"
     },
     {
         "year": 2001,
@@ -3257,7 +3257,7 @@ const matches = [
         "stadium": "Estadio Ricardo Etcheverri",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Triunfo de visitante en Caballito[cite: 27]"
+        "scorer": "Triunfo de visitante en Caballito"
     },
     {
         "year": 2001,
@@ -3267,7 +3267,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Victoria importante ante el Canalla[cite: 27]"
+        "scorer": "Victoria importante ante el Canalla"
     },
     {
         "year": 2001,
@@ -3277,7 +3277,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 2,
-        "scorer": "Triunfo para cerrar la fase de grupos[cite: 28]"
+        "scorer": "Triunfo para cerrar la fase de grupos"
     },
     {
         "year": 2001,
@@ -3287,7 +3287,7 @@ const matches = [
         "stadium": "Estadio Mario Alberto Kempes",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Tropiezo en Córdoba[cite: 27]"
+        "scorer": "Tropiezo en Córdoba"
     },
     {
         "year": 2001,
@@ -3297,7 +3297,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Victoria ajustada ante el Globo[cite: 27]"
+        "scorer": "Victoria ante el Globo"
     },
     {
         "year": 2001,
@@ -3307,7 +3307,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Triunfo clásico en La Boca[cite: 27]"
+        "scorer": "Triunfo en La Boca"
     },
     {
         "year": 2001,
@@ -3317,7 +3317,7 @@ const matches = [
         "stadium": "Estadio 15 de Abril",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate con goles en Santa Fe[cite: 27]"
+        "scorer": "Empate en Santa Fe"
     },
     {
         "year": 2001,
@@ -3327,7 +3327,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 4,
         "rivalScore": 2,
-        "scorer": "Partido vibrante y triunfo ante el Pincha[cite: 27]"
+        "scorer": "Partido vibrante y triunfo ante el Pincha"
     },
     {
         "year": 2001,
@@ -3337,7 +3337,7 @@ const matches = [
         "stadium": "Estadio Ricardo Etcheverri",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Victoria jugando en Caballito[cite: 27]"
+        "scorer": "Victoria jugando en Caballito"
     },
     {
         "year": 2001,
@@ -3347,7 +3347,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Derrota ajustada en casa[cite: 27]"
+        "scorer": "Derrota en casa"
     },
     {
         "year": 2001,
@@ -3357,7 +3357,7 @@ const matches = [
         "stadium": "Estadio José Amalfitani",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate en Liniers[cite: 27]"
+        "scorer": "Empate en Liniers"
     },
     {
         "year": 2001,
@@ -3367,7 +3367,7 @@ const matches = [
         "stadium": "Estadio Nacional de Tokio",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Caída por la mínima en tiempo suplementario en Japón[cite: 29]"
+        "scorer": "Caída con polémica en el tiempo suplementarioc con gol de Kuffour en Japón"
     },
     {
         "year": 2001,
@@ -3377,7 +3377,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 5,
         "rivalScore": 3,
-        "scorer": "Goleada con lluvia de goles en el clásico[cite: 27]"
+        "scorer": "Goleada con lluvia de goles en el clásico"
     },
     {
         "year": 2002,
@@ -3387,7 +3387,7 @@ const matches = [
         "stadium": "Estadio Marcelo Bielsa",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate postergado para cerrar el Apertura en Rosario[cite: 27]"
+        "scorer": "Empate para cerrar el Apertura en Rosario"
     },
     {
         "year": 2002,
@@ -3397,7 +3397,7 @@ const matches = [
         "stadium": "Estadio Mario Alberto Kempes",
         "bocaScore": 3,
         "rivalScore": 2,
-        "scorer": "Gran triunfo de visitante en Córdoba en el arranque[cite: 30]"
+        "scorer": "Gran triunfo de visitante en Córdoba en el arranque"
     },
     {
         "year": 2002,
@@ -3407,7 +3407,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate clásico sin goles en casa[cite: 30]"
+        "scorer": "Empate en casa"
     },
     {
         "year": 2002,
@@ -3417,7 +3417,7 @@ const matches = [
         "stadium": "Estadio Brigadier General Estanislao López",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Triunfo sólido en Santa Fe[cite: 30]"
+        "scorer": "Triunfo sólido en Santa Fe"
     },
     {
         "year": 2002,
@@ -3427,7 +3427,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate frente al Lobo en La Boca[cite: 30]"
+        "scorer": "Empate frente al Lobo en La Boca"
     },
     {
         "year": 2002,
@@ -3437,7 +3437,7 @@ const matches = [
         "stadium": "Estadio Pedro Bidegain",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate jugando en el Nuevo Gasómetro[cite: 30]"
+        "scorer": "Empate jugando en el Nuevo Gasómetro"
     },
     {
         "year": 2002,
@@ -3447,7 +3447,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 3,
-        "scorer": "Dura caída en el Superclásico en casa[cite: 30]"
+        "scorer": "Dura caída en el Superclásico en casa"
     },
     {
         "year": 2002,
@@ -3457,7 +3457,7 @@ const matches = [
         "stadium": "Estadio Ciudad de Lanús",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Tropiezo por la mínima en el Sur[cite: 30]"
+        "scorer": "Tropiezo en el Sur"
     },
     {
         "year": 2002,
@@ -3467,7 +3467,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 2,
-        "scorer": "Victoria trabajada en La Boca[cite: 30]"
+        "scorer": "Victoria en La Boca"
     },
     {
         "year": 2002,
@@ -3477,7 +3477,7 @@ const matches = [
         "stadium": "Estadio Gigante de Arroyito",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Gran triunfo de visitante en Rosario[cite: 30]"
+        "scorer": "Gran triunfo de visitante en Rosario"
     },
     {
         "year": 2002,
@@ -3487,7 +3487,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Victoria ajustada ante la T[cite: 30]"
+        "scorer": "Victoria ajustada ante la T"
     },
     {
         "year": 2002,
@@ -3497,7 +3497,7 @@ const matches = [
         "stadium": "Estadio Tomás Adolfo Ducó",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Triunfo firme en Parque Patricios[cite: 30]"
+        "scorer": "Triunfo firme en Parque Patricios"
     },
     {
         "year": 2002,
@@ -3507,7 +3507,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Goleada contundente en casa[cite: 30]"
+        "scorer": "Goleada en casa"
     },
     {
         "year": 2002,
@@ -3517,7 +3517,7 @@ const matches = [
         "stadium": "Estadio Jorge Luis Hirschi",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Triunfo de visitante en La Plata[cite: 30]"
+        "scorer": "Triunfo de visitante en La Plata"
     },
     {
         "year": 2002,
@@ -3527,7 +3527,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin tantos frente al Torito[cite: 30]"
+        "scorer": "Empate frente al Torito"
     },
     {
         "year": 2002,
@@ -3537,7 +3537,7 @@ const matches = [
         "stadium": "Estadio Presidente Perón",
         "bocaScore": 0,
         "rivalScore": 2,
-        "scorer": "Derrota en el clásico de Avellaneda[cite: 30]"
+        "scorer": "Derrota en el clásico de Avellaneda"
     },
     {
         "year": 2002,
@@ -3557,7 +3557,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Victoria importante frente al Fortín[cite: 30]"
+        "scorer": "Victoria importante frente al Fortín"
     },
     {
         "year": 2002,
@@ -3567,7 +3567,7 @@ const matches = [
         "stadium": "La Doble Visera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate clásico en Avellaneda[cite: 30]"
+        "scorer": "Empate clásico en Avellaneda"
     },
     {
         "year": 2002,
@@ -3577,7 +3577,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Victoria para cerrar el torneo en casa[cite: 30]"
+        "scorer": "Victoria para cerrar el torneo en casa"
     },
     {
         "year": 2002,
@@ -3587,7 +3587,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin goles en el debut copero[cite: 31]"
+        "scorer": "Empate en el debut copero"
     },
     {
         "year": 2002,
@@ -3597,7 +3597,7 @@ const matches = [
         "stadium": "Estadio George Capwell",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo agónico en Guayaquil[cite: 31]"
+        "scorer": "Triunfo en Guayaquil"
     },
     {
         "year": 2002,
@@ -3607,7 +3607,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Victoria clara ante los uruguayos[cite: 31]"
+        "scorer": "Victoria clara ante los uruguayos"
     },
     {
         "year": 2002,
@@ -3617,7 +3617,7 @@ const matches = [
         "stadium": "Estadio Sausalito",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Tropiezo en Chile[cite: 31]"
+        "scorer": "Tropiezo en Chile"
     },
     {
         "year": 2002,
@@ -3627,7 +3627,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Victoria por la mínima en casa[cite: 31]"
+        "scorer": "Victoria en casa"
     },
     {
         "year": 2002,
@@ -3637,7 +3637,7 @@ const matches = [
         "stadium": "Estadio Luis Franzini",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Triunfo en Uruguay para avanzar de fase[cite: 31]"
+        "scorer": "Triunfo en Uruguay para avanzar de fase"
     },
     {
         "year": 2002,
@@ -3647,7 +3647,7 @@ const matches = [
         "stadium": "Estadio Olímpico Atahualpa",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate en la altura de Quito[cite: 31]"
+        "scorer": "Empate en la altura de Quito"
     },
     {
         "year": 2002,
@@ -3657,7 +3657,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Victoria y clasificación a cuartos en La Boca[cite: 31]"
+        "scorer": "Victoria y clasificación a cuartos en La Boca"
     },
     {
         "year": 2002,
@@ -3667,7 +3667,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate en la ida de los cuartos de final[cite: 31]"
+        "scorer": "Empate en la ida de los cuartos de final"
     },
     {
         "year": 2002,
@@ -3677,7 +3677,7 @@ const matches = [
         "stadium": "Estadio Defensores del Chaco",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Eliminación sufrida en Paraguay[cite: 31]"
+        "scorer": "Eliminación en Paraguay"
     },
     {
         "year": 2002,
@@ -3687,7 +3687,7 @@ const matches = [
         "stadium": "Estadio José Amalfitani",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate en Liniers en el debut del Apertura[cite: 32]"
+        "scorer": "Empate en Liniers en el debut del Apertura"
     },
     {
         "year": 2002,
@@ -3697,7 +3697,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Goleada en casa ante el Tatengue[cite: 32]"
+        "scorer": "Goleada en casa ante el Tatengue"
     },
     {
         "year": 2002,
@@ -3707,7 +3707,7 @@ const matches = [
         "stadium": "Estadio Florencio Sola",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Triunfo ajustado de visitante en el Sur[cite: 32]"
+        "scorer": "Triunfo ajustado de visitante en el Sur"
     },
     {
         "year": 2002,
@@ -3717,7 +3717,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Victoria sólida frente al Pincha[cite: 32]"
+        "scorer": "Victoria sólida frente al Pincha"
     },
     {
         "year": 2002,
@@ -3727,7 +3727,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate con muchos goles en el clásico[cite: 32]"
+        "scorer": "Empate en el clásico"
     },
     {
         "year": 2002,
@@ -3737,7 +3737,7 @@ const matches = [
         "stadium": "Estadio Ciudad de Lanús",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Caída en el Sur[cite: 32]"
+        "scorer": "Caída en el Sur"
     },
     {
         "year": 2002,
@@ -3757,7 +3757,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Desueño rápido ante el Lobo en casa[cite: 32]"
+        "scorer": "Victoria ante el Lobo en casa"
     },
     {
         "year": 2002,
@@ -3767,7 +3767,7 @@ const matches = [
         "stadium": "Estadio Padre Ernesto Martearena (Salta)",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate y eliminación de la Sudamericana en Salta"
+        "scorer": "Eliminación de la Sudamericana en Salta"
     },
     {
         "year": 2002,
@@ -3777,7 +3777,7 @@ const matches = [
         "stadium": "Estadio Roberto Carminatti",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Triunfo de visitante en Bahía Blanca[cite: 32]"
+        "scorer": "Triunfo de visitante en Bahía Blanca"
     },
     {
         "year": 2002,
@@ -3787,7 +3787,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 4,
-        "scorer": "Partidazo inolvidable y derrota en La Boca[cite: 32]"
+        "scorer": "Derrota en La Boca"
     },
     {
         "year": 2002,
@@ -3797,7 +3797,7 @@ const matches = [
         "stadium": "Estadio Marcelo Bielsa",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate de visitante en Rosario[cite: 32]"
+        "scorer": "Empate de visitante en Rosario"
     },
     {
         "year": 2002,
@@ -3807,7 +3807,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Victoria clara ante el Fortín[cite: 32]"
+        "scorer": "Victoria clara ante el Fortín"
     },
     {
         "year": 2002,
@@ -3817,7 +3817,7 @@ const matches = [
         "stadium": "Estadio Brigadier General Estanislao López",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Tropiezo en Santa Fe[cite: 32]"
+        "scorer": "Tropiezo en Santa Fe"
     },
     {
         "year": 2002,
@@ -3827,7 +3827,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo ajustado en casa[cite: 32]"
+        "scorer": "Triunfo ajustado en casa"
     },
     {
         "year": 2002,
@@ -3837,7 +3837,7 @@ const matches = [
         "stadium": "Estadio Monumental",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Histórico triunfo en el Monumental con el recordado gol de vaselina del Cinto Rojas[cite: 32]"
+        "scorer": "Histórico triunfo en el Monumental con doblete del Chelo Delgado"
     },
     {
         "year": 2002,
@@ -3847,7 +3847,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Victoria frente al Globo en La Boca[cite: 32]"
+        "scorer": "Victoria frente al Globo en La Boca"
     },
     {
         "year": 2002,
@@ -3857,7 +3857,7 @@ const matches = [
         "stadium": "Estadio Ciudad de Lanús",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Triunfo jugando en Sarandí/Lanús[cite: 32]"
+        "scorer": "Triunfo jugando en Lanus"
     },
     {
         "year": 2002,
@@ -3867,7 +3867,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Victoria por la mínima[cite: 32]"
+        "scorer": "Victoria en La Boca"
     },
     {
         "year": 2002,
@@ -3877,7 +3877,7 @@ const matches = [
         "stadium": "La Doble Visera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate clásico en Avellaneda[cite: 32]"
+        "scorer": "Empate en Avellaneda"
     },
     {
         "year": 2002,
@@ -3887,7 +3887,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Victoria para cerrar el año en casa[cite: 32]"
+        "scorer": "Victoria para cerrar el año en casa"
     },
     {
         "year": 2003,
@@ -3897,7 +3897,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Triunfo en casa en el arranque del torneo[cite: 33]"
+        "scorer": "Triunfo en casa en el arranque del torneo"
     },
     {
         "year": 2003,
@@ -3907,7 +3907,7 @@ const matches = [
         "stadium": "Estadio 15 de Abril",
         "bocaScore": 0,
         "rivalScore": 2,
-        "scorer": "Tropiezo de visitante en Santa Fe[cite: 33]"
+        "scorer": "Tropiezo de visitante en Santa Fe"
     },
     {
         "year": 2003,
@@ -3917,7 +3917,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Victoria sólida en el debut copero[cite: 34]"
+        "scorer": "Victoria sólida en el debut copero"
     },
     {
         "year": 2003,
@@ -3927,7 +3927,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Triunfo claro en La Boca[cite: 33]"
+        "scorer": "Triunfo claro en La Boca"
     },
     {
         "year": 2003,
@@ -3937,7 +3937,7 @@ const matches = [
         "stadium": "Estadio Monumental (Santiago)",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Gran triunfo en Chile[cite: 34]"
+        "scorer": "Gran triunfo en Chile"
     },
     {
         "year": 2003,
@@ -3947,7 +3947,7 @@ const matches = [
         "stadium": "Estadio Jorge Luis Hirschi",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Victoria de visitante en La Plata[cite: 33]"
+        "scorer": "Victoria de visitante en La Plata"
     },
     {
         "year": 2003,
@@ -3957,7 +3957,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo por la mínima en casa[cite: 34]"
+        "scorer": "Triunfo en casa"
     },
     {
         "year": 2003,
@@ -3967,7 +3967,7 @@ const matches = [
         "stadium": "Estadio Pedro Bidegain",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfazo clásico en el Nuevo Gasómetro[cite: 33]"
+        "scorer": "Triunfazo en el Nuevo Gasómetro"
     },
     {
         "year": 2003,
@@ -3977,7 +3977,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Victoria contundente frente al Granate[cite: 33]"
+        "scorer": "Victoria contundente frente al Granate"
     },
     {
         "year": 2003,
@@ -3987,7 +3987,7 @@ const matches = [
         "stadium": "Estadio Atanasio Girardot",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Caída en Colombia[cite: 34]"
+        "scorer": "Caída en Colombia"
     },
     {
         "year": 2003,
@@ -3997,7 +3997,7 @@ const matches = [
         "stadium": "Estadio Juan Carmelo Zerillo",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Victoria en el Bosque[cite: 33]"
+        "scorer": "Victoria en el Bosque"
     },
     {
         "year": 2003,
@@ -4007,7 +4007,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate en casa ante el Aurinegro[cite: 33]"
+        "scorer": "Empate en casa ante el Aurinegro"
     },
     {
         "year": 2003,
@@ -4017,7 +4017,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate vibrante en La Boca[cite: 34]"
+        "scorer": "Empate vibrante en La Boca"
     },
     {
         "year": 2003,
@@ -4027,7 +4027,7 @@ const matches = [
         "stadium": "Estadio Presidente Perón",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Triunfo clásico en Avellaneda[cite: 34]"
+        "scorer": "Triunfo en Avellaneda"
     },
     {
         "year": 2003,
@@ -4037,7 +4037,7 @@ const matches = [
         "stadium": "Estadio Monumental (Guayaquil)",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate en Ecuador para cerrar el grupo[cite: 34]"
+        "scorer": "Empate en Ecuador para cerrar el grupo"
     },
     {
         "year": 2003,
@@ -4047,7 +4047,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Victoria frente a la Lepra en casa[cite: 33]"
+        "scorer": "Victoria frente a la Lepra en casa"
     },
     {
         "year": 2003,
@@ -4057,7 +4057,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Sorpresiva caída en la ida de octavos[cite: 34]"
+        "scorer": "Caída en la ida de octavos"
     },
     {
         "year": 2003,
@@ -4067,7 +4067,7 @@ const matches = [
         "stadium": "Estadio José Amalfitani",
         "bocaScore": 0,
         "rivalScore": 2,
-        "scorer": "Derrota en Liniers[cite: 33]"
+        "scorer": "Derrota en Liniers"
     },
     {
         "year": 2003,
@@ -4077,7 +4077,7 @@ const matches = [
         "stadium": "Estadio Mangueirão",
         "bocaScore": 4,
         "rivalScore": 2,
-        "scorer": "Noche heroica de Delgado con triplete y clasificación en Brasil[cite: 34]"
+        "scorer": "Noche heroica de Guillermo con triplete y clasificación en Brasil"
     },
     {
         "year": 2003,
@@ -4087,7 +4087,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Victoria sólida ante el Sabalero[cite: 33]"
+        "scorer": "Victoria sólida ante el Sabalero"
     },
     {
         "year": 2003,
@@ -4097,7 +4097,7 @@ const matches = [
         "stadium": "Estadio Municipal de Calama",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo histórico en la altura chilena[cite: 34]"
+        "scorer": "Triunfo histórico en la altura chilena"
     },
     {
         "year": 2003,
@@ -4107,7 +4107,7 @@ const matches = [
         "stadium": "Estadio Tomás Adolfo Ducó",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Victoria jugando en Parque Patricios[cite: 33]"
+        "scorer": "Victoria jugando en Parque Patricios"
     },
     {
         "year": 2003,
@@ -4117,7 +4117,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Victoria en casa para meterse en semifinales[cite: 34]"
+        "scorer": "Victoria en casa para meterse en semifinales"
     },
     {
         "year": 2003,
@@ -4127,7 +4127,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Superclásico infartante con doblete de Battaglia[cite: 33]"
+        "scorer": "Superclásico infartante con doblete de Guillermo"
     },
     {
         "year": 2003,
@@ -4137,7 +4137,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Ventaja clara en la ida de semis[cite: 34]"
+        "scorer": "Ventaja clara en la ida de semis"
     },
     {
         "year": 2003,
@@ -4147,7 +4147,7 @@ const matches = [
         "stadium": "Estadio Tomás Adolfo Ducó",
         "bocaScore": 4,
         "rivalScore": 0,
-        "scorer": "Goleada de visitante en Parque Patricios[cite: 33]"
+        "scorer": "Goleada de visitante en Parque Patricios"
     },
     {
         "year": 2003,
@@ -4157,7 +4157,7 @@ const matches = [
         "stadium": "Estadio Pascual Guerrero",
         "bocaScore": 4,
         "rivalScore": 0,
-        "scorer": "Paliza memorable en Colombia y pasaje a la final[cite: 34]"
+        "scorer": "Paliza en Colombia y pasaje a la final"
     },
     {
         "year": 2003,
@@ -4167,7 +4167,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate con goles en casa[cite: 33]"
+        "scorer": "Empate en casa"
     },
     {
         "year": 2003,
@@ -4177,7 +4177,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Triunfo fundamental en la primera final con destellos de Riquelme[cite: 34]"
+        "scorer": "Triunfazo en la ida de la final con doblete del Chelo Delgado "
     },
     {
         "year": 2003,
@@ -4187,7 +4187,7 @@ const matches = [
         "stadium": "Estadio Mario Alberto Kempes",
         "bocaScore": 1,
         "rivalScore": 3,
-        "scorer": "Caída en Córdoba[cite: 33]"
+        "scorer": "Caída en Córdoba"
     },
     {
         "year": 2003,
@@ -4197,7 +4197,7 @@ const matches = [
         "stadium": "Estadio Morumbí",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "¡Boca Campeón de América con baile en el Morumbí![cite: 34]"
+        "scorer": "¡Boca Campeón de América con baile en el Morumbí!"
     },
     {
         "year": 2003,
@@ -4207,7 +4207,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Triunfo clásico en La Boca[cite: 33]"
+        "scorer": "Triunfo en La Boca"
     },
     {
         "year": 2003,
@@ -4217,7 +4217,7 @@ const matches = [
         "stadium": "Estadio Gigante de Arroyito",
         "bocaScore": 2,
         "rivalScore": 7,
-        "scorer": "Derrota dura para cerrar el torneo[cite: 33]"
+        "scorer": "Derrota para cerrar el torneo"
     },
     {
         "year": 2003,
@@ -4227,7 +4227,7 @@ const matches = [
         "stadium": "Estadio Juan Carmelo Zerillo",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Triunfo ajustado en el Bosque[cite: 35]"
+        "scorer": "Triunfo en el Bosque"
     },
     {
         "year": 2003,
@@ -4237,7 +4237,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 4,
         "rivalScore": 0,
-        "scorer": "Goleada contundente en el arranque de local[cite: 35]"
+        "scorer": "Goleada contundente en el arranque de local"
     },
     {
         "year": 2003,
@@ -4247,7 +4247,7 @@ const matches = [
         "stadium": "Estadio José Amalfitani",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Gran victoria de visitante en Liniers[cite: 35]"
+        "scorer": "Gran victoria de visitante en Liniers"
     },
     {
         "year": 2003,
@@ -4257,7 +4257,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Victoria sólida ante el Funebrero[cite: 35]"
+        "scorer": "Victoria sólida ante el Funebrero"
     },
     {
         "year": 2003,
@@ -4267,7 +4267,7 @@ const matches = [
         "stadium": "Estadio Brigadier General Estanislao López",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate en Santa Fe por la Sudamericana[cite: 36]"
+        "scorer": "Empate en Santa Fe por la Sudamericana"
     },
     {
         "year": 2003,
@@ -4277,7 +4277,7 @@ const matches = [
         "stadium": "Estadio Presidente Perón",
         "bocaScore": 4,
         "rivalScore": 1,
-        "scorer": "Exhibición de fútbol y goleada en el Cilindro[cite: 35]"
+        "scorer": "Goleada en el Cilindro"
     },
     {
         "year": 2003,
@@ -4287,7 +4287,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin goles frente al Granate[cite: 35]"
+        "scorer": "Empate frente al Granate"
     },
     {
         "year": 2003,
@@ -4297,7 +4297,7 @@ const matches = [
         "stadium": "Estadio Mario Alberto Kempes",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Igualdad en territorio cordobés[cite: 35]"
+        "scorer": "Igualdad en territorio cordobés"
     },
     {
         "year": 2003,
@@ -4307,7 +4307,7 @@ const matches = [
         "stadium": "Estadio Padre Ernesto Martearena (Salta)",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo y clasificación en Salta[cite: 36]"
+        "scorer": "Triunfo y clasificación en Salta"
     },
     {
         "year": 2003,
@@ -4317,7 +4317,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Victoria frente a la Crema[cite: 35]"
+        "scorer": "Victoria frente a la Crema"
     },
     {
         "year": 2003,
@@ -4327,7 +4327,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 3,
-        "scorer": "Empate con muchos goles en partido postergado[cite: 35]"
+        "scorer": "Empate en el partido postergado"
     },
     {
         "year": 2003,
@@ -4337,7 +4337,7 @@ const matches = [
         "stadium": "Estadio José Amalfitani",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Triunfo de visitante en Liniers[cite: 35]"
+        "scorer": "Triunfo de visitante en Liniers"
     },
     {
         "year": 2003,
@@ -4347,7 +4347,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Tropiezo de local en la ida de cuartos[cite: 36]"
+        "scorer": "Tropiezo de local en la ida de cuartos"
     },
     {
         "year": 2003,
@@ -4357,7 +4357,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Victoria clara ante el Pincha[cite: 35]"
+        "scorer": "Victoria clara ante el Pincha"
     },
     {
         "year": 2003,
@@ -4367,7 +4367,7 @@ const matches = [
         "stadium": "Estadio Marcelo Bielsa",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Caída en Rosario[cite: 35]"
+        "scorer": "Caída en Rosario"
     },
     {
         "year": 2003,
@@ -4377,7 +4377,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate clásico sin emociones[cite: 35]"
+        "scorer": "Empate clásico sin emociones"
     },
     {
         "year": 2003,
@@ -4387,7 +4387,7 @@ const matches = [
         "stadium": "Estadio Atanasio Girardot",
         "bocaScore": 1,
         "rivalScore": 4,
-        "scorer": "Derrota y eliminación en Medellín[cite: 36]"
+        "scorer": "Derrota y eliminación en Medellín"
     },
     {
         "year": 2003,
@@ -4397,7 +4397,7 @@ const matches = [
         "stadium": "Estadio Monumental",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Histórico triunfo en el Monumental con goles de Battaglia y Schelotto[cite: 35]"
+        "scorer": "Histórico triunfo en el Monumental con gol de Iarley"
     },
     {
         "year": 2003,
@@ -4407,7 +4407,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Victoria clave en el clásico (partido adelantado)[cite: 35]"
+        "scorer": "Victoria en el clásico"
     },
     {
         "year": 2003,
@@ -4417,7 +4417,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin tantos frente al Cervecero[cite: 35]"
+        "scorer": "Empate sin tantos frente al Cervecero"
     },
     {
         "year": 2003,
@@ -4427,7 +4427,7 @@ const matches = [
         "stadium": "Estadio Presidente Perón",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo jugando en Avellaneda[cite: 35]"
+        "scorer": "Triunfo jugando en Avellaneda"
     },
     {
         "year": 2003,
@@ -4437,7 +4437,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate en casa ante los de Bahía Blanca[cite: 35]"
+        "scorer": "Empate en casa ante los de Bahía Blanca"
     },
     {
         "year": 2003,
@@ -4447,7 +4447,7 @@ const matches = [
         "stadium": "Estadio Brigadier General Estanislao López",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Tropiezo en Santa Fe[cite: 35]"
+        "scorer": "Tropiezo en Santa Fe"
     },
     {
         "year": 2003,
@@ -4457,7 +4457,7 @@ const matches = [
         "stadium": "Estadio Internacional de Yokohama",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "¡Boca Campeón del Mundo por penales con el Pato Abbondanzieri como gran figura![cite: 37]"
+        "scorer": "¡Boca Campeón del Mundo por penales con el Pato Abbondanzieri como gran figura!"
     },
     {
         "year": 2004,
@@ -4467,7 +4467,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin goles en el debut del Clausura[cite: 37]"
+        "scorer": "Empate en el debut del Clausura"
     },
     {
         "year": 2004,
@@ -4477,7 +4477,7 @@ const matches = [
         "stadium": "Estadio Gigante de Arroyito",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo valioso en Rosario[cite: 37]"
+        "scorer": "Triunfo valioso en Rosario"
     },
     {
         "year": 2004,
@@ -4487,7 +4487,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 3,
-        "scorer": "Partidazo con muchos goles en casa[cite: 37]"
+        "scorer": "Empate en casa"
     },
     {
         "year": 2004,
@@ -4497,7 +4497,7 @@ const matches = [
         "stadium": "Estadio Florencio Sola",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Victoria ajustada de visitante en el Sur[cite: 37]"
+        "scorer": "Victoria ajustada de visitante en el Sur"
     },
     {
         "year": 2004,
@@ -4507,7 +4507,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 4,
         "rivalScore": 1,
-        "scorer": "Goleada contundente ante la Academia[cite: 37]"
+        "scorer": "Goleada contundente ante la Academia"
     },
     {
         "year": 2004,
@@ -4517,7 +4517,7 @@ const matches = [
         "stadium": "Estadio Ciudad de Lanús",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Triunfo categórico de visitante[cite: 37]"
+        "scorer": "Triunfo categórico de visitante"
     },
     {
         "year": 2004,
@@ -4527,7 +4527,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Victoria frente a la T en La Boca[cite: 37]"
+        "scorer": "Victoria frente a la T en La Boca"
     },
     {
         "year": 2004,
@@ -4537,7 +4537,7 @@ const matches = [
         "stadium": "Estadio Nuevo Monumental",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Triunfo por la mínima en Rafaela[cite: 37]"
+        "scorer": "Triunfo por la mínima en Rafaela"
     },
     {
         "year": 2004,
@@ -4547,7 +4547,7 @@ const matches = [
         "stadium": "Estadio General San Martín",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Victoria de visitante en partido pendiente[cite: 37]"
+        "scorer": "Victoria de visitante en partido pendiente"
     },
     {
         "year": 2004,
@@ -4557,7 +4557,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Triunfo sólido frente al Torito[cite: 37]"
+        "scorer": "Triunfo sólido frente al Torito"
     },
     {
         "year": 2004,
@@ -4567,7 +4567,7 @@ const matches = [
         "stadium": "Estadio Jorge Luis Hirschi",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate con goles en La Plata[cite: 37]"
+        "scorer": "Empate en La Plata"
     },
     {
         "year": 2004,
@@ -4577,7 +4577,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate en casa ante la Lepra[cite: 37]"
+        "scorer": "Empate en casa ante la Lepra"
     },
     {
         "year": 2004,
@@ -4587,7 +4587,7 @@ const matches = [
         "stadium": "La Doble Visera",
         "bocaScore": 4,
         "rivalScore": 1,
-        "scorer": "Goleada histórica en el clásico de Avellaneda[cite: 37]"
+        "scorer": "Goleada histórica en el clásico de Avellaneda"
     },
     {
         "year": 2004,
@@ -4597,7 +4597,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Derrota en el Superclásico en casa[cite: 37]"
+        "scorer": "Derrota en el Superclásico en casa"
     },
     {
         "year": 2004,
@@ -4607,7 +4607,7 @@ const matches = [
         "stadium": "Estadio Centenario Ciudad de Quilmes",
         "bocaScore": 0,
         "rivalScore": 2,
-        "scorer": "Caída de visitante en Quilmes[cite: 37]"
+        "scorer": "Caída de visitante en Quilmes"
     },
     {
         "year": 2004,
@@ -4617,7 +4617,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Goleada clara ante los de Sarandí[cite: 37]"
+        "scorer": "Goleada clara ante los de Sarandí"
     },
     {
         "year": 2004,
@@ -4627,7 +4627,7 @@ const matches = [
         "stadium": "Estadio Roberto Carminatti",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate con goles en Bahía Blanca[cite: 37]"
+        "scorer": "Empate en Bahía Blanca"
     },
     {
         "year": 2004,
@@ -4637,7 +4637,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin tantos frente al Sabalero[cite: 37]"
+        "scorer": "Empate frente al Sabalero"
     },
     {
         "year": 2004,
@@ -4647,7 +4647,7 @@ const matches = [
         "stadium": "Estadio Pedro Bidegain",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Tropiezo en el Bajo Flores para cerrar el torneo[cite: 37]"
+        "scorer": "Tropiezo en el Bajo Flores para cerrar el torneo"
     },
     {
         "year": 2004,
@@ -4657,7 +4657,7 @@ const matches = [
         "stadium": "Estadio Hernando Siles",
         "bocaScore": 1,
         "rivalScore": 3,
-        "scorer": "Caída en la altura de La Paz[cite: 38]"
+        "scorer": "Caída en la altura de La Paz"
     },
     {
         "year": 2004,
@@ -4667,7 +4667,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Triunfo sólido en casa por la copa[cite: 38]"
+        "scorer": "Triunfo sólido en casa por la copa"
     },
     {
         "year": 2004,
@@ -4677,7 +4677,7 @@ const matches = [
         "stadium": "Estadio Pascual Guerrero",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Gran victoria de visitante en Colombia[cite: 38]"
+        "scorer": "Gran victoria de visitante en Colombia"
     },
     {
         "year": 2004,
@@ -4687,7 +4687,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Goleada en La Boca[cite: 38]"
+        "scorer": "Goleada en La Boca"
     },
     {
         "year": 2004,
@@ -4697,7 +4697,7 @@ const matches = [
         "stadium": "Estadio Monumental (Santiago)",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Tropiezo en Chile[cite: 38]"
+        "scorer": "Tropiezo en Chile"
     },
     {
         "year": 2004,
@@ -4707,7 +4707,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Victoria contundente para asegurar la clasificación[cite: 38]"
+        "scorer": "Victoria contundente para asegurar la clasificación"
     },
     {
         "year": 2004,
@@ -4717,7 +4717,7 @@ const matches = [
         "stadium": "Estadio Nacional de Lima",
         "bocaScore": 3,
         "rivalScore": 2,
-        "scorer": "Triunfo clave en Perú[cite: 38]"
+        "scorer": "Triunfo clave en Perú"
     },
     {
         "year": 2004,
@@ -4727,7 +4727,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Victoria y pase a cuartos[cite: 38]"
+        "scorer": "Victoria y pase a cuartos"
     },
     {
         "year": 2004,
@@ -4737,7 +4737,7 @@ const matches = [
         "stadium": "Estadio Anacleto Campanella",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate en Brasil[cite: 38]"
+        "scorer": "Empate en Brasil"
     },
     {
         "year": 2004,
@@ -4747,7 +4747,7 @@ const matches = [
         "stadium": "Estadio Presidente Perón",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate y triunfo por penales en Avellaneda[cite: 38]"
+        "scorer": "Empate y triunfo por penales en Avellaneda"
     },
     {
         "year": 2004,
@@ -4757,7 +4757,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Triunfo en la ida con el recordado gol de Schiavi[cite: 38]"
+        "scorer": "Triunfo en la ida con el recordado gol de Schiavi"
     },
     {
         "year": 2004,
@@ -4767,7 +4767,7 @@ const matches = [
         "stadium": "Estadio Monumental",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Derrota agónica"
+        "scorer": "La Gallinita de Tevez y el penal de Villarreal"
     },
     {
         "year": 2004,
@@ -4777,7 +4777,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin goles en la primera final[cite: 38]"
+        "scorer": "Empate en la primera final"
     },
     {
         "year": 2004,
@@ -4787,7 +4787,7 @@ const matches = [
         "stadium": "Estadio Palogrande",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate y derrota por penales en Colombia[cite: 38]"
+        "scorer": "Empate y derrota por penales en Colombia"
     },
     {
         "year": 2004,
@@ -4797,7 +4797,7 @@ const matches = [
         "stadium": "Lockhart Stadium (Florida)",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate en Estados Unidos y caída por penales en la final única[cite: 41]"
+        "scorer": "Empate en Estados Unidos y caída por penales en la final única"
     },
     {
         "year": 2004,
@@ -4807,7 +4807,7 @@ const matches = [
         "stadium": "Estadio Ciudad de Lanús",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate en el Sur en el inicio del Apertura[cite: 39]"
+        "scorer": "Empate en el Sur en el inicio del Apertura"
     },
     {
         "year": 2004,
@@ -4817,7 +4817,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Goleada clásica en casa[cite: 39]"
+        "scorer": "Goleada clásica en casa"
     },
     {
         "year": 2004,
@@ -4827,7 +4827,7 @@ const matches = [
         "stadium": "Estadio Roberto Carminatti",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Triunfo sólido en Bahía Blanca[cite: 39]"
+        "scorer": "Triunfo sólido en Bahía Blanca"
     },
     {
         "year": 2004,
@@ -4837,7 +4837,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Victoria clásica en La Boca[cite: 39]"
+        "scorer": "Victoria en La Boca"
     },
     {
         "year": 2004,
@@ -4847,7 +4847,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo frente al Lobo[cite: 39]"
+        "scorer": "Triunfo frente al Lobo"
     },
     {
         "year": 2004,
@@ -4857,7 +4857,7 @@ const matches = [
         "stadium": "La Doble Visera",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Caída en el clásico de Avellaneda[cite: 39]"
+        "scorer": "Caída en el clásico de Avellaneda"
     },
     {
         "year": 2004,
@@ -4867,7 +4867,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 6,
         "rivalScore": 0,
-        "scorer": "Paliza memorable al Fortín en La Boca[cite: 39]"
+        "scorer": "Paliza memorable al Fortín en La Boca"
     },
     {
         "year": 2004,
@@ -4877,7 +4877,7 @@ const matches = [
         "stadium": "Estadio Gigante de Arroyito",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Tropiezo en Rosario[cite: 39]"
+        "scorer": "Tropiezo en Rosario"
     },
     {
         "year": 2004,
@@ -4887,7 +4887,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Victoria ajustada ante el Globo de Tres Arroyos[cite: 39]"
+        "scorer": "Victoria ante el Globo de Tres Arroyos"
     },
     {
         "year": 2004,
@@ -4907,7 +4907,7 @@ const matches = [
         "stadium": "Estadio Brigadier General Estanislao López",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Derrota en Santa Fe[cite: 39]"
+        "scorer": "Derrota en Santa Fe"
     },
     {
         "year": 2004,
@@ -4927,7 +4927,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate en casa frente al Taladro[cite: 39]"
+        "scorer": "Empate frente al Taladro"
     },
     {
         "year": 2004,
@@ -4937,7 +4937,7 @@ const matches = [
         "stadium": "Estadio Diego Armando Maradona",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Tropiezo de visitante[cite: 39]"
+        "scorer": "Tropiezo de visitante"
     },
     {
         "year": 2004,
@@ -4957,7 +4957,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin goles en casa[cite: 39]"
+        "scorer": "Empate en casa"
     },
     {
         "year": 2004,
@@ -4967,7 +4967,7 @@ const matches = [
         "stadium": "Estadio Defensores del Chaco",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate y clasificación por penales en Paraguay"
+        "scorer": "Clasificación por penales en Paraguay"
     },
     {
         "year": 2004,
@@ -4977,7 +4977,7 @@ const matches = [
         "stadium": "Estadio Monumental",
         "bocaScore": 0,
         "rivalScore": 2,
-        "scorer": "Derrota en el Superclásico de Núñez[cite: 39]"
+        "scorer": "Derrota en el Superclásico de Núñez"
     },
     {
         "year": 2004,
@@ -4987,7 +4987,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin tantos ante el Pincha[cite: 39]"
+        "scorer": "Empate ante el Pincha"
     },
     {
         "year": 2004,
@@ -5007,7 +5007,7 @@ const matches = [
         "stadium": "Estadio Julio H. Grondona",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Caída en Sarandí[cite: 39]"
+        "scorer": "Caída en Sarandí"
     },
     {
         "year": 2004,
@@ -5027,7 +5027,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 3,
-        "scorer": "Derrota frente a la Lepra[cite: 39]"
+        "scorer": "Derrota frente a la Lepra"
     },
     {
         "year": 2004,
@@ -5047,7 +5047,7 @@ const matches = [
         "stadium": "Estadio Centenario Ciudad de Quilmes",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Triunfo de visitante[cite: 39]"
+        "scorer": "Triunfo de visitante"
     },
     {
         "year": 2004,
@@ -5067,7 +5067,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate para cerrar el año en casa[cite: 39]"
+        "scorer": "Empate para cerrar el año en casa"
     },
     {
         "year": 2005,
@@ -5107,7 +5107,7 @@ const matches = [
         "stadium": "Estadio Presidente Perón",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Derrota clásica en Avellaneda"
+        "scorer": "Derrota en Avellaneda"
     },
     {
         "year": 2005,
@@ -5127,7 +5127,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo clásico en casa"
+        "scorer": "Triunfo en casa"
     },
     {
         "year": 2005,
@@ -5207,7 +5207,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Superclásico ganado en casa con el histórico gol de chilena de el Chipi Barijho"
+        "scorer": "Gol de chilena de el Chipi Barijho"
     },
     {
         "year": 2005,
@@ -5217,7 +5217,7 @@ const matches = [
         "stadium": "Estadio Jorge Luis Hirschi",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin tantos en La Plata"
+        "scorer": "Empate en La Plata"
     },
     {
         "year": 2005,
@@ -5347,7 +5347,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin goles y eliminación de la Copa"
+        "scorer": "Eliminación de la Copa"
     },
     {
         "year": 2005,
@@ -5367,7 +5367,7 @@ const matches = [
         "stadium": "Estadio Palogrande",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Derrota en Colombia pero ¡Boca Campeón de la Recopa Sudamericana!"
+        "scorer": "¡Boca Campeón de la Recopa Sudamericana!"
     },
     {
         "year": 2005,
@@ -5487,7 +5487,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Victoria ajustada ante los rosarinos"
+        "scorer": "Victoria ante los rosarinos"
     },
     {
         "year": 2005,
@@ -5507,7 +5507,7 @@ const matches = [
         "stadium": "Estadio Monumental",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Superclásico sin goles en Núñez"
+        "scorer": "Superclásico con empate en Núñez"
     },
     {
         "year": 2005,
@@ -5647,7 +5647,7 @@ const matches = [
         "stadium": "Estadio 23 de Agosto",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Tropiezo de visitante en Jujuy en el arranque[cite: 46]"
+        "scorer": "Tropiezo de visitante en Jujuy en el arranque"
     },
     {
         "year": 2006,
@@ -5657,7 +5657,7 @@ const matches = [
         "stadium": "Estadio Gigante de Arroyito",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo valioso en Rosario[cite: 46]"
+        "scorer": "Triunfo valioso en Rosario"
     },
     {
         "year": 2006,
@@ -5667,7 +5667,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Goleada contundente ante el Granate en casa[cite: 46]"
+        "scorer": "Goleada contundente ante el Granate en casa"
     },
     {
         "year": 2006,
@@ -5677,7 +5677,7 @@ const matches = [
         "stadium": "Estadio Mario Alberto Kempes",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate en Córdoba[cite: 46]"
+        "scorer": "Empate en Córdoba"
     },
     {
         "year": 2006,
@@ -5687,7 +5687,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Caída clásica en La Boca[cite: 46]"
+        "scorer": "Caída en La Boca"
     },
     {
         "year": 2006,
@@ -5697,7 +5697,7 @@ const matches = [
         "stadium": "Estadio Diego Armando Maradona",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo ajustado de visitante[cite: 46]"
+        "scorer": "Triunfo ajustado de visitante"
     },
     {
         "year": 2006,
@@ -5707,7 +5707,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Victoria clara ante el Lobo en casa[cite: 46]"
+        "scorer": "Victoria clara ante el Lobo en casa"
     },
     {
         "year": 2006,
@@ -5717,7 +5717,7 @@ const matches = [
         "stadium": "Estadio Ciudad de La Plata",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Goleada en La Plata jugando como visitante[cite: 46]"
+        "scorer": "Goleada en La Plata jugando como visitante"
     },
     {
         "year": 2006,
@@ -5727,7 +5727,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Triunfo sólido frente al Cervecero[cite: 46]"
+        "scorer": "Triunfo frente al Cervecero"
     },
     {
         "year": 2006,
@@ -5737,7 +5737,7 @@ const matches = [
         "stadium": "Estadio Marcelo Bielsa",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin tantos en Rosario[cite: 46]"
+        "scorer": "Empate en Rosario"
     },
     {
         "year": 2006,
@@ -5747,7 +5747,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Superclásico empatado en casa con agónico gol de Palermo[cite: 46]"
+        "scorer": "Superclásico empatado en casa con gol de Palermo"
     },
     {
         "year": 2006,
@@ -5757,7 +5757,7 @@ const matches = [
         "stadium": "Estadio Marcelo Bielsa",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate de visitante en Rosario[cite: 46]"
+        "scorer": "Empate de visitante en Rosario"
     },
     {
         "year": 2006,
@@ -5767,7 +5767,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Victoria trabajada en La Boca[cite: 46]"
+        "scorer": "Victoria en La Boca"
     },
     {
         "year": 2006,
@@ -5777,7 +5777,7 @@ const matches = [
         "stadium": "Estadio Brigadier General Estanislao López",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo importante en Santa Fe[cite: 46]"
+        "scorer": "Triunfo importante en Santa Fe"
     },
     {
         "year": 2006,
@@ -5787,7 +5787,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Victoria por la mínima en casa[cite: 46]"
+        "scorer": "Victoria en casa"
     },
     {
         "year": 2006,
@@ -5797,7 +5797,7 @@ const matches = [
         "stadium": "Estadio José Amalfitani",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Goleada categórica en Liniers[cite: 46]"
+        "scorer": "Goleada categórica en Liniers"
     },
     {
         "year": 2006,
@@ -5807,7 +5807,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 4,
         "rivalScore": 0,
-        "scorer": "Paliza memorable al Pincha en La Boca[cite: 46]"
+        "scorer": "Paliza al Pincha en La Boca"
     },
     {
         "year": 2006,
@@ -5817,7 +5817,7 @@ const matches = [
         "stadium": "La Doble Visera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Triunfo clásico en Avellaneda[cite: 46]"
+        "scorer": "Triunfo en Avellaneda"
     },
     {
         "year": 2006,
@@ -5827,7 +5827,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Victoria para cerrar el torneo (aunque el título se definiría en desempate)[cite: 46]"
+        "scorer": "Boca Bicampeón!"
     },
     {
         "year": 2006,
@@ -5837,7 +5837,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo clave en la ida de la Recopa en casa[cite: 48]"
+        "scorer": "Triunfo clave en la ida de la Recopa en casa"
     },
     {
         "year": 2006,
@@ -5847,7 +5847,7 @@ const matches = [
         "stadium": "Estadio Morumbí",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate histórico en Brasil y ¡Boca Campeón de la Recopa![cite: 48]"
+        "scorer": "¡Boca Campeón de la Recopa!"
     },
     {
         "year": 2006,
@@ -5857,7 +5857,7 @@ const matches = [
         "stadium": "Estadio Centenario (Montevideo)",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Caída en Uruguay en la ida de octavos[cite: 49]"
+        "scorer": "Caída en Uruguay en la ida de octavos"
     },
     {
         "year": 2006,
@@ -5867,7 +5867,7 @@ const matches = [
         "stadium": "Estadio Padre Ernesto Martearena (Salta)",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Eliminación por penales[cite: 49]"
+        "scorer": "Eliminación por penales"
     },
     {
         "year": 2006,
@@ -5877,7 +5877,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Comienzo a puro gol en el Apertura[cite: 47]"
+        "scorer": "Comienzo a puro gol en el Apertura"
     },
     {
         "year": 2006,
@@ -5887,7 +5887,7 @@ const matches = [
         "stadium": "Estadio Gigante de Arroyito",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo de visitante en Rosario[cite: 47]"
+        "scorer": "Triunfo de visitante en Rosario"
     },
     {
         "year": 2006,
@@ -5897,7 +5897,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Victoria clásica en La Boca[cite: 47]"
+        "scorer": "Victoria en La Boca"
     },
     {
         "year": 2006,
@@ -5907,7 +5907,7 @@ const matches = [
         "stadium": "Estadio Pedro Bidegain",
         "bocaScore": 7,
         "rivalScore": 1,
-        "scorer": "Histórica y monumental goleada en el Bajo Flores[cite: 47]"
+        "scorer": "Con un hat-trick del Titán y Ruggeri Dt Rival, la Tapa de Olé fue "Cuervitos en Fuga" "
     },
     {
         "year": 2006,
@@ -5917,7 +5917,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Triunfo sólido frente al Pincha[cite: 47]"
+        "scorer": "Triunfo frente al Pincha"
     },
     {
         "year": 2006,
@@ -5927,7 +5927,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin goles en casa[cite: 47]"
+        "scorer": "Empate en casa"
     },
     {
         "year": 2006,
@@ -5937,7 +5937,7 @@ const matches = [
         "stadium": "Estadio República de Mataderos",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Victoria por la mínima en Mataderos[cite: 47]"
+        "scorer": "Victoria en Mataderos"
     },
     {
         "year": 2006,
@@ -5947,7 +5947,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 2,
-        "scorer": "Partidazo infartante en La Boca[cite: 47]"
+        "scorer": "Partidazo infartante en La Boca"
     },
     {
         "year": 2006,
@@ -5957,7 +5957,7 @@ const matches = [
         "stadium": "Estadio Monumental",
         "bocaScore": 1,
         "rivalScore": 3,
-        "scorer": "Caída en el Superclásico de Núñez[cite: 47]"
+        "scorer": "Caída en el Superclásico de Núñez"
     },
     {
         "year": 2006,
@@ -5967,7 +5967,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Victoria frente a la Lepra[cite: 47]"
+        "scorer": "Victoria frente a la Lepra"
     },
     {
         "year": 2006,
@@ -5977,7 +5977,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo ajustado en casa[cite: 47]"
+        "scorer": "Triunfo en casa"
     },
     {
         "year": 2006,
@@ -5987,7 +5987,7 @@ const matches = [
         "stadium": "Estadio Presidente Perón",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Clásico sin goles en Avellaneda (partido postergado)[cite: 47]"
+        "scorer": "Clásico en Avellaneda (partido postergado)"
     },
     {
         "year": 2006,
@@ -5997,7 +5997,7 @@ const matches = [
         "stadium": "Estadio Julio H. Grondona",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo visitante en Sarandí[cite: 47]"
+        "scorer": "Triunfo visitante en Sarandí"
     },
     {
         "year": 2006,
@@ -6007,7 +6007,7 @@ const matches = [
         "stadium": "Estadio Ciudad de La Plata",
         "bocaScore": 4,
         "rivalScore": 1,
-        "scorer": "Goleada postergada en La Plata[cite: 47]"
+        "scorer": "Partido postergado en La Plata"
     },
     {
         "year": 2006,
@@ -6017,7 +6017,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Victoria clara en La Boca[cite: 47]"
+        "scorer": "Victoria clara en La Boca"
     },
     {
         "year": 2006,
@@ -6027,7 +6027,7 @@ const matches = [
         "stadium": "Estadio 23 de Agosto",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo de visitante en Jujuy[cite: 47]"
+        "scorer": "Triunfo de visitante en Jujuy"
     },
     {
         "year": 2006,
@@ -6037,7 +6037,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 4,
         "rivalScore": 1,
-        "scorer": "Goleada contundente ante el Sabalero[cite: 47]"
+        "scorer": "Goleada contundente ante el Sabalero"
     },
     {
         "year": 2006,
@@ -6047,7 +6047,7 @@ const matches = [
         "stadium": "Estadio Mario Alberto Kempes",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Tropiezo en Córdoba[cite: 47]"
+        "scorer": "Tropiezo en Córdoba"
     },
     {
         "year": 2006,
@@ -6057,7 +6057,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Derrota que obligó a disputar un partido desempate por el título[cite: 47]"
+        "scorer": "Derrota que obligó a disputar un partido desempate por el título"
     },
     {
         "year": 2006,
@@ -6067,7 +6067,7 @@ const matches = [
         "stadium": "Estadio José Amalfitani",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Caída en la final desempate jugada en Liniers[ci"
+        "scorer": "Final desempate jugada en Liniers con gol de Palermo"
     },
     {
         "year": 2007,
@@ -6077,7 +6077,7 @@ const matches = [
         "stadium": "Estadio Presidente Perón",
         "bocaScore": 4,
         "rivalScore": 0,
-        "scorer": "Goleada de visitante en el inicio del Clausura[cite: 50]"
+        "scorer": "Goleada de visitante en el inicio del Clausura"
     },
     {
         "year": 2007,
@@ -6087,7 +6087,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate en casa ante el Canalla[cite: 50]"
+        "scorer": "Empate en casa ante el Canalla"
     },
     {
         "year": 2007,
@@ -6097,7 +6097,7 @@ const matches = [
         "stadium": "Estadio Presidente Perón",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Triunfo clave en Avellaneda[cite: 50]"
+        "scorer": "Gol de mitad de cancha del Titán"
     },
     {
         "year": 2007,
@@ -6107,7 +6107,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 3,
-        "scorer": "Dura caída de local frente al Ciclón[cite: 50]"
+        "scorer": "Dura caída de local frente al Ciclón"
     },
     {
         "year": 2007,
@@ -6117,7 +6117,7 @@ const matches = [
         "stadium": "Estadio Ciudad de La Plata",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Gran triunfo de visitante en La Plata[cite: 50]"
+        "scorer": "Gran triunfo de visitante en La Plata"
     },
     {
         "year": 2007,
@@ -6127,7 +6127,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 5,
         "rivalScore": 1,
-        "scorer": "Goleada contundente ante el Lobo en La Boca[cite: 50]"
+        "scorer": "Goleada ante el Lobo en La Boca"
     },
     {
         "year": 2007,
@@ -6137,7 +6137,7 @@ const matches = [
         "stadium": "Estadio Malvinas Argentinas",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Victoria ajustada en Mendoza[cite: 50]"
+        "scorer": "Victoria en Mendoza"
     },
     {
         "year": 2007,
@@ -6147,7 +6147,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Triunfo sólido frente al Torito[cite: 50]"
+        "scorer": "Triunfo sólido frente al Torito"
     },
     {
         "year": 2007,
@@ -6157,7 +6157,7 @@ const matches = [
         "stadium": "Estadio José Amalfitani",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Victoria categórica en Liniers[cite: 50]"
+        "scorer": "Victoria categórica en Liniers"
     },
     {
         "year": 2007,
@@ -6167,7 +6167,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Superclásico empatado en casa[cite: 50]"
+        "scorer": "Superclásico empatado en casa"
     },
     {
         "year": 2007,
@@ -6177,7 +6177,7 @@ const matches = [
         "stadium": "Estadio Marcelo Bielsa",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo de visitante en Rosario[cite: 50]"
+        "scorer": "Triunfo de visitante en Rosario"
     },
     {
         "year": 2007,
@@ -6187,7 +6187,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate con goles en La Boca[cite: 50]"
+        "scorer": "Empate en La Boca"
     },
     {
         "year": 2007,
@@ -6197,7 +6197,7 @@ const matches = [
         "stadium": "Estadio Diego Armando Maradona",
         "bocaScore": 3,
         "rivalScore": 3,
-        "scorer": "Empate con muchos goles en La Paternal[cite: 50]"
+        "scorer": "Empate con muchos goles en La Paternal"
     },
     {
         "year": 2007,
@@ -6207,7 +6207,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate en casa frente a los de Sarandí[cite: 50]"
+        "scorer": "Empate en casa frente a los de Sarandí"
     },
     {
         "year": 2007,
@@ -6217,7 +6217,7 @@ const matches = [
         "stadium": "Estadio Centenario Ciudad de Quilmes",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Victoria de visitante en Quilmes[cite: 50]"
+        "scorer": "Victoria de visitante en Quilmes"
     },
     {
         "year": 2007,
@@ -6227,7 +6227,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Triunfo claro en La Boca[cite: 50]"
+        "scorer": "Triunfo claro en La Boca"
     },
     {
         "year": 2007,
@@ -6237,7 +6237,7 @@ const matches = [
         "stadium": "Estadio Brigadier General Estanislao López",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Tropiezo en Santa Fe[cite: 50]"
+        "scorer": "Tropiezo en Santa Fe"
     },
     {
         "year": 2007,
@@ -6247,7 +6247,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Victoria por la mínima en casa[cite: 50]"
+        "scorer": "Victoria en casa"
     },
     {
         "year": 2007,
@@ -6257,7 +6257,7 @@ const matches = [
         "stadium": "Estadio Ciudad de Lanús",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate para cerrar el torneo en el Sur[cite: 50]"
+        "scorer": "Empate para cerrar el torneo en el Sur"
     },
     {
         "year": 2007,
@@ -6267,7 +6267,7 @@ const matches = [
         "stadium": "Estadio Hernando Siles",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin goles en la altura de La Paz[cite: 51]"
+        "scorer": "Empate en la altura de La Paz"
     },
     {
         "year": 2007,
@@ -6277,7 +6277,7 @@ const matches = [
         "stadium": "Estadio Pedro Bidegain",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Triunfo copero haciendo de local en el Nuevo Gasómetro[cite: 51]"
+        "scorer": "Triunfo copero haciendo de local en el Nuevo Gasómetro"
     },
     {
         "year": 2007,
@@ -6287,7 +6287,7 @@ const matches = [
         "stadium": "Estadio Nemesio Díez",
         "bocaScore": 0,
         "rivalScore": 2,
-        "scorer": "Caída en México[cite: 51]"
+        "scorer": "Caída en México"
     },
     {
         "year": 2007,
@@ -6297,7 +6297,7 @@ const matches = [
         "stadium": "Estadio José Amalfitani",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Victoria contundente en Liniers[cite: 51]"
+        "scorer": "Victoria contundente en Liniers"
     },
     {
         "year": 2007,
@@ -6307,7 +6307,7 @@ const matches = [
         "stadium": "Estadio Garcilaso de la Vega",
         "bocaScore": 0,
         "rivalScore": 3,
-        "scorer": "Tropiezo en Cusco[cite: 51]"
+        "scorer": "Tropiezo en Cusco"
     },
     {
         "year": 2007,
@@ -6317,7 +6317,7 @@ const matches = [
         "stadium": "Estadio José Amalfitani",
         "bocaScore": 7,
         "rivalScore": 0,
-        "scorer": "Goleada histórica y clasificación agónica en Liniers[cite: 51]"
+        "scorer": "Goleada histórica y clasificación agónica en Liniers"
     },
     {
         "year": 2007,
@@ -6327,7 +6327,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Gran ventaja en la ida de octavos[cite: 51]"
+        "scorer": "Gran ventaja en la ida de octavos"
     },
     {
         "year": 2007,
@@ -6337,7 +6337,7 @@ const matches = [
         "stadium": "Estadio José Amalfitani",
         "bocaScore": 1,
         "rivalScore": 3,
-        "scorer": "Derrota pero pasaje asegurado a cuartos[cite: 51]"
+        "scorer": "Derrota pero pasaje asegurado a cuartos"
     },
     {
         "year": 2007,
@@ -6347,7 +6347,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate en la ida de cuartos[cite: 51]"
+        "scorer": "Empate en la ida de cuartos"
     },
     {
         "year": 2007,
@@ -6357,7 +6357,7 @@ const matches = [
         "stadium": "Estadio Defensores del Chaco",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Triunfo categórico en Paraguay y pase a semis[cite: 51]"
+        "scorer": "Triunfo en Paraguay y pase a semis"
     },
     {
         "year": 2007,
@@ -6367,7 +6367,7 @@ const matches = [
         "stadium": "Estadio General Santander",
         "bocaScore": 1,
         "rivalScore": 3,
-        "scorer": "Caída en Colombia en el arranque de semis[cite: 51]"
+        "scorer": "Caída en Colombia en la ida de la semi"
     },
     {
         "year": 2007,
@@ -6377,7 +6377,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Noche estelar de Riquelme y goleada para meterse en otra final[cite: 51]"
+        "scorer": "Noche estelar de Riquelme para meterse en otra final"
     },
     {
         "year": 2007,
@@ -6387,7 +6387,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Exhibición de fútbol y amplia ventaja en la primera final[cite: 51]"
+        "scorer": "Exhibición de fútbol y amplia ventaja en la primera final"
     },
     {
         "year": 2007,
@@ -6397,7 +6397,7 @@ const matches = [
         "stadium": "Estadio Olímpico Monumental",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "¡Boca Campeón de América con una actuación inolvidable de Riquelme en Brasil![cite: 51]"
+        "scorer": "¡Boca Campeón de América"
     },
     {
         "year": 2007,
@@ -6407,7 +6407,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin goles en el debut del Apertura[cite: 52]"
+        "scorer": "Empate en el debut del Apertura"
     },
     {
         "year": 2007,
@@ -6417,7 +6417,7 @@ const matches = [
         "stadium": "Estadio Diego Armando Maradona",
         "bocaScore": 2,
         "rivalScore": 3,
-        "scorer": "Partidazo y derrota en La Paternal[cite: 52]"
+        "scorer": "Derrota en La Paternal"
     },
     {
         "year": 2007,
@@ -6427,7 +6427,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Triunfo por la mínima en casa[cite: 52]"
+        "scorer": "Triunfo en casa"
     },
     {
         "year": 2007,
@@ -6437,7 +6437,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Victoria frente al Lobo[cite: 52]"
+        "scorer": "Victoria frente al Lobo"
     },
     {
         "year": 2007,
@@ -6447,7 +6447,7 @@ const matches = [
         "stadium": "Estadio Presidente Perón",
         "bocaScore": 3,
         "rivalScore": 2,
-        "scorer": "Triunfazo visitante en Avellaneda[cite: 52]"
+        "scorer": "Triunfazo visitante en Avellaneda"
     },
     {
         "year": 2007,
@@ -6457,7 +6457,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Victoria ajustada ante el Globo[cite: 52]"
+        "scorer": "Victoria ante el Globo"
     },
     {
         "year": 2007,
@@ -6467,7 +6467,7 @@ const matches = [
         "stadium": "Estadio Brigadier General Estanislao López",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Caída en Santa Fe[cite: 52]"
+        "scorer": "Caída en Santa Fe"
     },
     {
         "year": 2007,
@@ -6477,7 +6477,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Triunfo sólido frente al Aurinegro[cite: 52]"
+        "scorer": "Triunfo sólido frente al Aurinegro"
     },
     {
         "year": 2007,
@@ -6487,7 +6487,7 @@ const matches = [
         "stadium": "Estadio Florencio Sola",
         "bocaScore": 6,
         "rivalScore": 0,
-        "scorer": "Goleada impresionante de visitante en el Sur[cite: 52]"
+        "scorer": "Goleada en el Sur"
     },
     {
         "year": 2007,
@@ -6497,7 +6497,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate con goles en La Boca[cite: 52]"
+        "scorer": "Empate en La Boca"
     },
     {
         "year": 2007,
@@ -6507,7 +6507,7 @@ const matches = [
         "stadium": "Estadio Marcelo Bielsa",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Tropiezo en Rosario[cite: 52]"
+        "scorer": "Tropiezo en Rosario"
     },
     {
         "year": 2007,
@@ -6517,7 +6517,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Triunfo clásico en casa[cite: 52]"
+        "scorer": "Triunfo clásico en casa"
     },
     {
         "year": 2007,
@@ -6527,7 +6527,7 @@ const matches = [
         "stadium": "Estadio Monumental",
         "bocaScore": 0,
         "rivalScore": 2,
-        "scorer": "Derrota en el Superclásico de Núñez[cite: 52]"
+        "scorer": "Derrota en el Superclásico de Núñez"
     },
     {
         "year": 2007,
@@ -6537,7 +6537,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Victoria en la ida de octavos por la Sudamericana[cite: 53]"
+        "scorer": "Victoria en la ida de octavos por la Sudamericana"
     },
     {
         "year": 2007,
@@ -6547,7 +6547,7 @@ const matches = [
         "stadium": "Estadio Morumbí",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Caída en Brasil y eliminación por gol de visitante[cite: 53]"
+        "scorer": "Eliminación de La Copa"
     },
     {
         "year": 2007,
@@ -6557,7 +6557,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate frente al Pincha[cite: 52]"
+        "scorer": "Empate frente al Pincha"
     },
     {
         "year": 2007,
@@ -6567,7 +6567,7 @@ const matches = [
         "stadium": "Estadio Presidente Perón",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Goleada categórica en Avellaneda[cite: 52]"
+        "scorer": "Goleada categórica en Avellaneda"
     },
     {
         "year": 2007,
@@ -6577,7 +6577,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 4,
         "rivalScore": 0,
-        "scorer": "Paliza al Fortín en La Boca[cite: 52]"
+        "scorer": "Paliza al Fortín en La Boca"
     },
     {
         "year": 2007,
@@ -6587,7 +6587,7 @@ const matches = [
         "stadium": "Estadio Julio H. Grondona",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Caída en Sarandí[cite: 52]"
+        "scorer": "Caída en Sarandí"
     },
     {
         "year": 2007,
@@ -6597,7 +6597,7 @@ const matches = [
         "stadium": "Estadio Monumental de Victoria",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Tropiezo de visitante en Victoria[cite: 52]"
+        "scorer": "Tropiezo de visitante en Victoria"
     },
     {
         "year": 2007,
@@ -6607,7 +6607,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate para cerrar el torneo en casa (partido postergado)[cite: 52]"
+        "scorer": "Empate para cerrar el torneo en casa (partido postergado)"
     },
     {
         "year": 2007,
@@ -6617,7 +6617,7 @@ const matches = [
         "stadium": "Estadio Nacional de Tokio",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Triunfo ajustado en Japón para avanzar a la final[cite: 54]"
+        "scorer": "Gol de Nery Cardozo para avanzar a la final"
     },
     {
         "year": 2007,
@@ -6627,7 +6627,7 @@ const matches = [
         "stadium": "Estadio Internacional de Yokohama",
         "bocaScore": 2,
         "rivalScore": 4,
-        "scorer": "Dura derrota en la gran final del mundo ante el Milan[cite: 54]"
+        "scorer": "Gol de Palacio en la final"
     },
     {
         "year": 2008,
@@ -6637,7 +6637,7 @@ const matches = [
         "stadium": "Estadio Gigante de Arroyito",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate de visitante en el arranque del Clausura[cite: 55]"
+        "scorer": "Empate de visitante en el arranque del Clausura"
     },
     {
         "year": 2008,
@@ -6647,7 +6647,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 4,
         "rivalScore": 0,
-        "scorer": "Goleada contundente en casa[cite: 55]"
+        "scorer": "Goleada contundente en casa"
     },
     {
         "year": 2008,
@@ -6657,7 +6657,7 @@ const matches = [
         "stadium": "Estadio Hilario Sánchez",
         "bocaScore": 2,
         "rivalScore": 0,
-        "scorer": "Triunfo sólido en San Juan[cite: 55]"
+        "scorer": "Triunfo sólido en San Juan"
     },
     {
         "year": 2008,
@@ -6667,7 +6667,7 @@ const matches = [
         "stadium": "Estadio Ciudad de La Plata",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Victoria ajustada de visitante[cite: 55]"
+        "scorer": "Victoria de visitante"
     },
     {
         "year": 2008,
@@ -6677,7 +6677,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate clásico en La Boca[cite: 55]"
+        "scorer": "Empate en La Boca"
     },
     {
         "year": 2008,
@@ -6687,7 +6687,7 @@ const matches = [
         "stadium": "Estadio Diego Armando Maradona",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin goles jugando en La Paternal[cite: 55]"
+        "scorer": "Empate jugando en La Paternal"
     },
     {
         "year": 2008,
@@ -6697,7 +6697,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo frente al Sabalero[cite: 55]"
+        "scorer": "Triunfo frente al Sabalero"
     },
     {
         "year": 2008,
@@ -6707,7 +6707,7 @@ const matches = [
         "stadium": "Estadio Roberto Carminatti",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate en Bahía Blanca[cite: 55]"
+        "scorer": "Empate en Bahía Blanca"
     },
     {
         "year": 2008,
@@ -6717,7 +6717,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Igualdad en casa ante el Taladro[cite: 55]"
+        "scorer": "Igualdad en casa ante el Taladro"
     },
     {
         "year": 2008,
@@ -6727,7 +6727,7 @@ const matches = [
         "stadium": "Estadio 23 de Agosto",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo de visitante en Jujuy[cite: 55]"
+        "scorer": "Triunfo de visitante en Jujuy"
     },
     {
         "year": 2008,
@@ -6737,7 +6737,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Victoria trabajada frente a la Lepra[cite: 55]"
+        "scorer": "Victoria frente a la Lepra"
     },
     {
         "year": 2008,
@@ -6747,7 +6747,7 @@ const matches = [
         "stadium": "Estadio Pedro Bidegain",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Caída clásica en el Bajo Flores[cite: 55]"
+        "scorer": "Caída en el Bajo Flores"
     },
     {
         "year": 2008,
@@ -6757,7 +6757,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Triunfo inolvidable en el Superclásico con gol de local[cite: 55]"
+        "scorer": "Triunfo en el Superclásico con gol del Seba Battaglia"
     },
     {
         "year": 2008,
@@ -6767,7 +6767,7 @@ const matches = [
         "stadium": "Estadio Ciudad de La Plata",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Tropiezo de visitante en La Plata[cite: 55]"
+        "scorer": "Tropiezo de visitante en La Plata"
     },
     {
         "year": 2008,
@@ -6777,7 +6777,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Victoria clásica en La Boca[cite: 55]"
+        "scorer": "Victoria en La Boca"
     },
     {
         "year": 2008,
@@ -6787,7 +6787,7 @@ const matches = [
         "stadium": "Estadio José Amalfitani",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate en Liniers[cite: 55]"
+        "scorer": "Empate en Liniers"
     },
     {
         "year": 2008,
@@ -6797,7 +6797,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Triunfo claro ante los de Sarandí[cite: 55]"
+        "scorer": "Triunfo claro ante los de Sarandí"
     },
     {
         "year": 2008,
@@ -6807,7 +6807,7 @@ const matches = [
         "stadium": "Estadio Ciudad de Lanús",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Gran victoria en el Sur[cite: 55]"
+        "scorer": "Gran victoria en el Sur"
     },
     {
         "year": 2008,
@@ -6817,7 +6817,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 6,
         "rivalScore": 2,
-        "scorer": "Goleada impresionante para cerrar el torneo[cite: 55]"
+        "scorer": "Goleada impresionante para cerrar el torneo"
     },
     {
         "year": 2008,
@@ -6827,7 +6827,7 @@ const matches = [
         "stadium": "Estadio José Encarnación Romero",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate en Venezuela en el debut copero[cite: 56]"
+        "scorer": "Empate en Venezuela en el debut copero"
     },
     {
         "year": 2008,
@@ -6837,7 +6837,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Victoria contundente ante los mexicanos[cite: 56]"
+        "scorer": "Victoria contundente ante los mexicanos"
     },
     {
         "year": 2008,
@@ -6847,7 +6847,7 @@ const matches = [
         "stadium": "Estadio Monumental (Santiago)",
         "bocaScore": 0,
         "rivalScore": 2,
-        "scorer": "Caída en Chile[cite: 56]"
+        "scorer": "Caída en Chile"
     },
     {
         "year": 2008,
@@ -6857,7 +6857,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 4,
         "rivalScore": 3,
-        "scorer": "Partidazo con lluvia de goles en La Boca[cite: 56]"
+        "scorer": "Partidazo con lluvia de goles en La Boca"
     },
     {
         "year": 2008,
@@ -6867,7 +6867,7 @@ const matches = [
         "stadium": "Estadio Jalisco",
         "bocaScore": 1,
         "rivalScore": 3,
-        "scorer": "Tropiezo en México[cite: 56]"
+        "scorer": "Tropiezo en México"
     },
     {
         "year": 2008,
@@ -6877,7 +6877,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Triunfo claro para avanzar de fase[cite: 56]"
+        "scorer": "Triunfo claro para avanzar de fase"
     },
     {
         "year": 2008,
@@ -6887,7 +6887,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Ventaja en la ida de octavos en casa[cite: 56]"
+        "scorer": "Ventaja en la ida de octavos en casa"
     },
     {
         "year": 2008,
@@ -6897,7 +6897,7 @@ const matches = [
         "stadium": "Estadio Mineirão",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Gran triunfo en Brasil para meterse en cuartos[cite: 56]"
+        "scorer": "Gran triunfo en Brasil para meterse en cuartos"
     },
     {
         "year": 2008,
@@ -6907,7 +6907,7 @@ const matches = [
         "stadium": "Estadio José Amalfitani",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate haciendo de local en Liniers[cite: 56]"
+        "scorer": "Empate haciendo de local en Liniers"
     },
     {
         "year": 2008,
@@ -6917,7 +6917,7 @@ const matches = [
         "stadium": "Estadio Jalisco",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Exhibición y goleada en México con triplete de Palermo para pasar a semis[cite: 56]"
+        "scorer": "Triplete de Palermo"
     },
     {
         "year": 2008,
@@ -6927,7 +6927,7 @@ const matches = [
         "stadium": "Estadio Presidente Perón",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate en la ida de semis en Avellaneda[cite: 56]"
+        "scorer": "Empate en la ida de semis en Avellaneda"
     },
     {
         "year": 2008,
@@ -6937,7 +6937,7 @@ const matches = [
         "stadium": "Estadio Maracaná",
         "bocaScore": 1,
         "rivalScore": 3,
-        "scorer": "Dura derrota en Brasil y eliminación de la Copa[cite: 56]"
+        "scorer": "Eliminación de la Copa"
     },
     {
         "year": 2008,
@@ -6947,7 +6947,7 @@ const matches = [
         "stadium": "Estadio Presidente Perón",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Triunfo categórico en la ida de visitante[cite: 58]"
+        "scorer": "Triunfo en la ida de visitante"
     },
     {
         "year": 2008,
@@ -6957,7 +6957,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate en casa y ¡Boca Campeón de la Recopa Sudamericana![cite: 58]"
+        "scorer": "¡Boca Campeón de la Recopa Sudamericana!"
     },
     {
         "year": 2008,
@@ -6967,7 +6967,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 4,
         "rivalScore": 0,
-        "scorer": "Goleada en el arranque del Apertura[cite: 57]"
+        "scorer": "Goleada en el arranque del Apertura"
     },
     {
         "year": 2008,
@@ -6977,7 +6977,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo frente al Granate[cite: 57]"
+        "scorer": "Triunfo frente al Granate"
     },
     {
         "year": 2008,
@@ -6987,7 +6987,7 @@ const matches = [
         "stadium": "Estadio Diego Armando Maradona",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Victoria contundente en La Paternal[cite: 57]"
+        "scorer": "Victoria contundente en La Paternal"
     },
     {
         "year": 2008,
@@ -6997,7 +6997,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate clásico en casa[cite: 57]"
+        "scorer": "Empate en casa"
     },
     {
         "year": 2008,
@@ -7007,7 +7007,7 @@ const matches = [
         "stadium": "Estadio Diego Armando Maradona",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin tantos en La Paternal[cite: 57]"
+        "scorer": "Empate en La Paternal"
     },
     {
         "year": 2008,
@@ -7017,7 +7017,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 3,
-        "scorer": "Caída en un partidazo en La Boca[cite: 57]"
+        "scorer": "Caída en un partidazo en La Boca"
     },
     {
         "year": 2008,
@@ -7027,7 +7027,7 @@ const matches = [
         "stadium": "Estadio Marcelo Bielsa",
         "bocaScore": 4,
         "rivalScore": 2,
-        "scorer": "Gran triunfo de visitante en Rosario (partido postergado)[cite: 57]"
+        "scorer": "Gran triunfo de visitante en Rosario (partido postergado)"
     },
     {
         "year": 2008,
@@ -7037,7 +7037,7 @@ const matches = [
         "stadium": "Estadio Malvinas Argentinas",
         "bocaScore": 1,
         "rivalScore": 4,
-        "scorer": "Derrota en Mendoza[cite: 57]"
+        "scorer": "Derrota en Mendoza"
     },
     {
         "year": 2008,
@@ -7047,7 +7047,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 4,
         "rivalScore": 0,
-        "scorer": "Goleada impresionante en la ida de octavos[cite: 59]"
+        "scorer": "Goleada impresionante en la ida de octavos"
     },
     {
         "year": 2008,
@@ -7057,7 +7057,7 @@ const matches = [
         "stadium": "Estadio Casa Blanca",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate en la altura y pase a cuartos[cite: 59]"
+        "scorer": "Empate en la altura y pase a cuartos"
     },
     {
         "year": 2008,
@@ -7067,7 +7067,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Tropiezo en casa frente al Pincha[cite: 57]"
+        "scorer": "Tropiezo en casa frente al Pincha"
     },
     {
         "year": 2008,
@@ -7077,7 +7077,7 @@ const matches = [
         "stadium": "Estadio Beira-Rio",
         "bocaScore": 0,
         "rivalScore": 2,
-        "scorer": "Caída en Porto Alegre en la ida de cuartos[cite: 59]"
+        "scorer": "Caída en Porto Alegre en la ida de cuartos"
     },
     {
         "year": 2008,
@@ -7087,7 +7087,7 @@ const matches = [
         "stadium": "Estadio Monumental",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Histórico triunfo en el Monumental con el agónico gol de Viatri[cite: 57]"
+        "scorer": "Agónico gol de Viatri"
     },
     {
         "year": 2008,
@@ -7097,7 +7097,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Derrota y eliminación de la Sudamericana[cite: 59]"
+        "scorer": "Eliminación de la Sudamericana"
     },
     {
         "year": 2008,
@@ -7107,7 +7107,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo ajustado en La Boca[cite: 57]"
+        "scorer": "Triunfo en La Boca"
     },
     {
         "year": 2008,
@@ -7117,7 +7117,7 @@ const matches = [
         "stadium": "Estadio Florencio Sola",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Victoria por la mínima en el Sur[cite: 57]"
+        "scorer": "Victoria en el Sur"
     },
     {
         "year": 2008,
@@ -7127,7 +7127,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Triunfo clave ante el Ciclón[cite: 57]"
+        "scorer": "Triunfo clave ante el Ciclón"
     },
     {
         "year": 2008,
@@ -7137,7 +7137,7 @@ const matches = [
         "stadium": "Estadio Julio H. Grondona",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Victoria de visitante en Sarandí[cite: 57]"
+        "scorer": "Victoria de visitante en Sarandí"
     },
     {
         "year": 2008,
@@ -7147,7 +7147,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 3,
-        "scorer": "Partidazo y derrota en casa[cite: 57]"
+        "scorer": "Partidazo y derrota en casa"
     },
     {
         "year": 2008,
@@ -7157,7 +7157,7 @@ const matches = [
         "stadium": "Estadio La Ciudadela",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo valioso en Tucumán[cite: 57]"
+        "scorer": "Triunfo valioso en Tucumán"
     },
     {
         "year": 2008,
@@ -7167,7 +7167,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Victoria clásica ante la Academia[cite: 57]"
+        "scorer": "Victoria ante la Academia"
     },
     {
         "year": 2008,
@@ -7177,7 +7177,7 @@ const matches = [
         "stadium": "Estadio Ciudad de La Plata",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin goles en el Bosque[cite: 57]"
+        "scorer": "Empate en el Bosque"
     },
     {
         "year": 2008,
@@ -7187,7 +7187,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 2,
-        "scorer": "Triunfo infartante que obligó al triangular de desempate[cite: 57]"
+        "scorer": "Triunfo infartante que obligó al triangular de desempate"
     },
     {
         "year": 2008,
@@ -7197,7 +7197,7 @@ const matches = [
         "stadium": "Estadio Presidente Perón",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Gran triunfo en el arranque del triangular en Avellaneda[cite: 57]"
+        "scorer": "Gran triunfo en el arranque del triangular en Avellaneda"
     },
     {
         "year": 2008,
@@ -7207,7 +7207,7 @@ const matches = [
         "stadium": "Estadio Presidente Perón",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Derrota ajustada que dejó la definición abierta[cite: 57]"
+        "scorer": "Partido Consagración"
     },
     {
         "year": 2009,
@@ -7217,7 +7217,7 @@ const matches = [
         "stadium": "Estadio 23 de Agosto",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo de visitante en Jujuy en el arranque[cite: 60]"
+        "scorer": "Triunfo de visitante en Jujuy en el arranque"
     },
     {
         "year": 2009,
@@ -7227,7 +7227,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 2,
-        "scorer": "Tropiezo de local ante la Lepra[cite: 60]"
+        "scorer": "Tropiezo de local ante la Lepra"
     },
     {
         "year": 2009,
@@ -7237,7 +7237,7 @@ const matches = [
         "stadium": "Estadio Ciudad de Lanús",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Caída en el Sur[cite: 60]"
+        "scorer": "Caída en el Sur"
     },
     {
         "year": 2009,
@@ -7247,7 +7247,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Victoria clara ante el Globo en casa[cite: 60]"
+        "scorer": "Victoria clara ante el Globo en casa"
     },
     {
         "year": 2009,
@@ -7257,7 +7257,7 @@ const matches = [
         "stadium": "Estadio Tomás Adolfo Ducó",
         "bocaScore": 0,
         "rivalScore": 2,
-        "scorer": "Derrota jugando en Parque Patricios[cite: 60]"
+        "scorer": "Derrota jugando en Parque Patricios"
     },
     {
         "year": 2009,
@@ -7267,7 +7267,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Goleada contundente ante el Bicho[cite: 60]"
+        "scorer": "Goleada contundente ante el Bicho"
     },
     {
         "year": 2009,
@@ -7277,7 +7277,7 @@ const matches = [
         "stadium": "Estadio Monumental de Victoria",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin goles en Victoria[cite: 60]"
+        "scorer": "Empate en Victoria"
     },
     {
         "year": 2009,
@@ -7287,7 +7287,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate frente a los mendocinos en La Boca[cite: 60]"
+        "scorer": "Empate frente a los mendocinos en La Boca"
     },
     {
         "year": 2009,
@@ -7297,7 +7297,7 @@ const matches = [
         "stadium": "Estadio Ciudad de La Plata",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Caída de visitante en La Plata[cite: 60]"
+        "scorer": "Caída de visitante en La Plata"
     },
     {
         "year": 2009,
@@ -7307,7 +7307,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Superclásico empatado en casa[cite: 60]"
+        "scorer": "Superclásico empatado en casa"
     },
     {
         "year": 2009,
@@ -7317,7 +7317,7 @@ const matches = [
         "stadium": "Estadio Gigante de Arroyito",
         "bocaScore": 0,
         "rivalScore": 2,
-        "scorer": "Tropiezo en Rosario[cite: 60]"
+        "scorer": "Tropiezo en Rosario"
     },
     {
         "year": 2009,
@@ -7327,7 +7327,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 3,
-        "scorer": "Derrota en un partidazo con muchos goles[cite: 60]"
+        "scorer": "Partidazo con muchos goles"
     },
     {
         "year": 2009,
@@ -7337,7 +7337,7 @@ const matches = [
         "stadium": "Estadio Pedro Bidegain",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate clásico en el Bajo Flores[cite: 60]"
+        "scorer": "Empate en el Bajo Flores"
     },
     {
         "year": 2009,
@@ -7347,7 +7347,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo ajustado en La Boca[cite: 60]"
+        "scorer": "Triunfo en La Boca"
     },
     {
         "year": 2009,
@@ -7357,7 +7357,7 @@ const matches = [
         "stadium": "Estadio José Amalfitani",
         "bocaScore": 0,
         "rivalScore": 2,
-        "scorer": "Caída en Liniers[cite: 60]"
+        "scorer": "Caída en Liniers"
     },
     {
         "year": 2009,
@@ -7367,7 +7367,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Goleada sólida frente a los tucumanos[cite: 60]"
+        "scorer": "Goleada sólida frente a los tucumanos"
     },
     {
         "year": 2009,
@@ -7377,7 +7377,7 @@ const matches = [
         "stadium": "Estadio Presidente Perón",
         "bocaScore": 0,
         "rivalScore": 3,
-        "scorer": "Derrota en el Cilindro de Avellaneda[cite: 60]"
+        "scorer": "Derrota en el Cilindro de Avellaneda"
     },
     {
         "year": 2009,
@@ -7387,7 +7387,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Tropiezo de local ante el Lobo[cite: 60]"
+        "scorer": "Tropiezo de local ante el Lobo"
     },
     {
         "year": 2009,
@@ -7397,7 +7397,7 @@ const matches = [
         "stadium": "Estadio Brigadier General Estanislao López",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Victoria de visitante para cerrar el torneo[cite: 60]"
+        "scorer": "Victoria de visitante para cerrar el torneo"
     },
     {
         "year": 2009,
@@ -7407,7 +7407,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Triunfo por la mínima en el debut copero[cite: 61]"
+        "scorer": "Triunfo en el debut copero"
     },
     {
         "year": 2009,
@@ -7417,7 +7417,7 @@ const matches = [
         "stadium": "Polideportivo de Pueblo Nuevo",
         "bocaScore": 1,
         "rivalScore": 0,
-        "scorer": "Victoria de visitante en Venezuela[cite: 61]"
+        "scorer": "Victoria de visitante en Venezuela"
     },
     {
         "year": 2009,
@@ -7427,7 +7427,7 @@ const matches = [
         "stadium": "Estadio Manuel Ferreira",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Gran triunfo en Paraguay[cite: 61]"
+        "scorer": "Gran triunfo en Paraguay"
     },
     {
         "year": 2009,
@@ -7437,7 +7437,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 1,
-        "scorer": "Victoria clara en casa[cite: 61]"
+        "scorer": "Victoria clara en casa"
     },
     {
         "year": 2009,
@@ -7447,7 +7447,7 @@ const matches = [
         "stadium": "Estadio Alejandro Serrano Aguilar",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Tropiezo en la altura de Ecuador[cite: 61]"
+        "scorer": "Tropiezo en la altura de Ecuador"
     },
     {
         "year": 2009,
@@ -7457,7 +7457,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Goleada para cerrar la fase de grupos[cite: 61]"
+        "scorer": "Goleada para cerrar la fase de grupos"
     },
     {
         "year": 2009,
@@ -7477,7 +7477,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Sorpresiva caída en casa y eliminación de la Copa[cite: 61]"
+        "scorer": "Eliminación de la Copa"
     },
     {
         "year": 2009,
@@ -7487,7 +7487,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate en la ida de la fase inicial por la Sudamericana[cite: 62]"
+        "scorer": "Empate en la ida de la fase inicial por la Sudamericana"
     },
     {
         "year": 2009,
@@ -7497,7 +7497,7 @@ const matches = [
         "stadium": "Estadio José Amalfitani",
         "bocaScore": 0,
         "rivalScore": 1,
-        "scorer": "Derrota y eliminación en Liniers[cite: 62]"
+        "scorer": "Eliminación en Liniers"
     },
     {
         "year": 2009,
@@ -7507,7 +7507,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 2,
-        "scorer": "Empate con goles en el arranque del Apertura[cite: 63]"
+        "scorer": "Empate con goles en el arranque del Apertura"
     },
     {
         "year": 2009,
@@ -7517,7 +7517,7 @@ const matches = [
         "stadium": "Estadio Ciudad de Lanús",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo valioso de visitante en el Sur[cite: 63]"
+        "scorer": "Triunfo valioso de visitante en el Sur"
     },
     {
         "year": 2009,
@@ -7527,7 +7527,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate frente a la Lepra[cite: 63]"
+        "scorer": "Empate frente a la Lepra"
     },
     {
         "year": 2009,
@@ -7537,7 +7537,7 @@ const matches = [
         "stadium": "Estadio Monumental Jose Fierro",
         "bocaScore": 0,
         "rivalScore": 2,
-        "scorer": "Caída en Tucumán[cite: 63]"
+        "scorer": "Caída en Tucumán"
     },
     {
         "year": 2009,
@@ -7547,7 +7547,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 2,
         "rivalScore": 3,
-        "scorer": "Partidazo y derrota en casa[cite: 63]"
+        "scorer": "Partidazo y derrota en casa"
     },
     {
         "year": 2009,
@@ -7557,7 +7557,7 @@ const matches = [
         "stadium": "Estadio Centenario Ciudad de Quilmes",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Tropiezo jugando en Quilmes[cite: 63]"
+        "scorer": "Tropiezo jugando en Quilmes"
     },
     {
         "year": 2009,
@@ -7567,7 +7567,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 2,
-        "scorer": "Gran victoria ante el Fortín[cite: 63]"
+        "scorer": "Cabezazo de 40 metros del Titán"
     },
     {
         "year": 2009,
@@ -7577,7 +7577,7 @@ const matches = [
         "stadium": "Estadio Presidente Perón",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Triunfo clásico en Avellaneda[cite: 63]"
+        "scorer": "Triunfo en Avellaneda"
     },
     {
         "year": 2009,
@@ -7587,7 +7587,7 @@ const matches = [
         "stadium": "Estadio José Amalfitani",
         "bocaScore": 2,
         "rivalScore": 1,
-        "scorer": "Victoria haciendo de local en Liniers[cite: 63]"
+        "scorer": "Victoria haciendo de local en Liniers"
     },
     {
         "year": 2009,
@@ -7597,7 +7597,7 @@ const matches = [
         "stadium": "Estadio Monumental",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Superclásico empatado en Núñez[cite: 63]"
+        "scorer": "Superclásico empatado en Núñez"
     },
     {
         "year": 2009,
@@ -7607,7 +7607,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 3,
         "rivalScore": 0,
-        "scorer": "Goleada contundente frente al Funebrero[cite: 63]"
+        "scorer": "Goleada contundente frente al Funebrero"
     },
     {
         "year": 2009,
@@ -7617,7 +7617,7 @@ const matches = [
         "stadium": "Estadio Gigante de Arroyito",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Caída en Rosario[cite: 63]"
+        "scorer": "Caída en Rosario"
     },
     {
         "year": 2009,
@@ -7627,7 +7627,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin tantos ante el Sabalero[cite: 63]"
+        "scorer": "Empate sin tantos ante el Sabalero"
     },
     {
         "year": 2009,
@@ -7637,7 +7637,7 @@ const matches = [
         "stadium": "Estadio Julio H. Grondona",
         "bocaScore": 1,
         "rivalScore": 1,
-        "scorer": "Empate de visitante en Sarandí[cite: 63]"
+        "scorer": "Empate de visitante en Sarandí"
     },
     {
         "year": 2009,
@@ -7647,7 +7647,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 4,
         "rivalScore": 0,
-        "scorer": "Goleada clara ante el Lobo en La Boca[cite: 63]"
+        "scorer": "Goleada clara ante el Lobo en La Boca"
     },
     {
         "year": 2009,
@@ -7657,7 +7657,7 @@ const matches = [
         "stadium": "Estadio Pedro Bidegain",
         "bocaScore": 0,
         "rivalScore": 3,
-        "scorer": "Dura derrota en el Bajo Flores[cite: 63]"
+        "scorer": "Dura derrota en el Bajo Flores"
     },
     {
         "year": 2009,
@@ -7667,7 +7667,7 @@ const matches = [
         "stadium": "La Bombonera",
         "bocaScore": 1,
         "rivalScore": 2,
-        "scorer": "Tropiezo clásico en casa[cite: 63]"
+        "scorer": "Tropiezo clásico en casa"
     },
     {
         "year": 2009,
@@ -7677,7 +7677,7 @@ const matches = [
         "stadium": "Estadio Tomás Adolfo Ducó",
         "bocaScore": 0,
         "rivalScore": 0,
-        "scorer": "Empate sin goles en Parque Patricios[cite: 63]"
+        "scorer": "Empate sin goles en Parque Patricios"
     },
     {
         "year": 2009,
